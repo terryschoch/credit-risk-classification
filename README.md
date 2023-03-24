@@ -5,8 +5,8 @@
 The goal of this analysis was to build and train a supervised machine learning model using historical lending data and then to evaluate whether it could accurately identify credit risk in the sense of whether a client would be creditworthy or not in regard to seeking a loan approval. 
 
 * There are two keys risks inherent in creating this type of model:
-1. Wrongly identifying a person as a credit risk when they are actually likely to repay the loan and should be classified as a "healthy loan" instead. This represents a profit opportunity loss.
-2. Approving a loan to a person who is actually a credit risk and unlikely to repay the loan, classifying them as a healthy loan when they should in fact be regarded as "high risk".
+  1. Wrongly identifying a person as a credit risk when they are actually likely to repay the loan and should be classified as a "healthy loan" instead. This represents a profit opportunity loss.
+  2. Approving a loan to a person who is actually a credit risk and unlikely to repay the loan, classifying them as a healthy loan when they should in fact be regarded as "high risk".
 
 
 ### The Data
